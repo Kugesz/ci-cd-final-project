@@ -1,3 +1,15 @@
+# CI/CD Final Project
+
+## Project Name
+Building CI/CD Pipelines with GitHub Actions,
+Tekton and OpenShift
+
+## Description
+This project implements a CI/CD pipeline for a
+Python Flask microservice using GitHub Actions
+for continuous integration and Tekton with
+OpenShift for continuous deployment.
+
 # CI/CD Tools and Practices Final Project Template
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
